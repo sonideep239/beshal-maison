@@ -1,4 +1,4 @@
-package com.beshalmaison
+package com.beshaelmaison
 
 import android.app.Application
 import com.facebook.react.PackageList
